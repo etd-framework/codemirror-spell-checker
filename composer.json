@@ -1,0 +1,10 @@
+{
+  "name": "etdsolutions/codemirror-spell-checker",
+  "description": "Shim repository for CodeMirror Spell Checker",
+  "homepage": "https://github.com/NextStepWebs/codemirror-spell-checker",
+  "license": "MIT",
+  "author": {
+  	"name": "Wes Cossick",
+  	"url": "http://www.WesCossick.com"
+  }
+}
